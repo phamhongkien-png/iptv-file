@@ -1,7 +1,7 @@
 #EXTM3U
 
 # ==================== NHÓM 1: KHO PHIM ====================
-#EXTINF:-1 tvg-id="VID01" tvg-name="Video 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 01 (Lỗi link cũ)
+#EXTINF:-1 tvg-id="VID01" tvg-name="Video 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 01
 https://ia800508.us.archive.org/15/items/soav-131/SOAV-131.mp4
 
 #EXTINF:-1 tvg-id="VID02" tvg-name="Video 02" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 02
