@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="VID01" tvg-name="Video 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 01
-https://files.catbox.moe/9dffpk.mp4
+# ==================== NHÓM 1: KHO PHIM ====================
+#EXTINF:-1 tvg-id="VID01" tvg-name="Video 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 01 (Lỗi link cũ)
+https://ia800508.us.archive.org/15/items/soav-131/SOAV-131.mp4
 
 #EXTINF:-1 tvg-id="VID02" tvg-name="Video 02" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 02
 https://files.catbox.moe/link-video-02.mp4
@@ -15,48 +16,17 @@ https://files.catbox.moe/link-video-04.mp4
 #EXTINF:-1 tvg-id="VID05" tvg-name="Video 05" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 05
 https://files.catbox.moe/link-video-05.mp4
 
-#EXTINF:-1 tvg-id="VID06" tvg-name="Video 06" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 06
-https://files.catbox.moe/link-video-06.mp4
 
-#EXTINF:-1 tvg-id="VID07" tvg-name="Video 07" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 07
-https://files.catbox.moe/link-video-07.mp4
+# ==================== NHÓM 2: ÂM NHẠC ====================
+#EXTINF:-1 tvg-id="MUSIC01" tvg-name="Nhạc 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 01
+https://ia903209.us.archive.org/23/items/format-factory-mux-rebd-456_202609/FormatFactory%20Mux%20REBD-456.ia.mp4
 
-#EXTINF:-1 tvg-id="VID08" tvg-name="Video 08" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 08
-https://files.catbox.moe/link-video-08.mp4
+#EXTINF:-1 tvg-id="MUSIC02" tvg-name="Nhạc 02" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 02
+https://ia801009.us.archive.org/0/items/format-factory-mux-javxx-xem/FormatFactory%20Mux%20JAVxx%20-%20Xem.ia.mp4
 
-#EXTINF:-1 tvg-id="VID09" tvg-name="Video 09" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 09
+#EXTINF:-1 tvg-id="MUSIC03" tvg-name="Nhạc 03" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 03
+https://ia803104.us.archive.org/11/items/rebd-1016/FormatFactory%20Mux%20%5BReducing%20Mosaic%5DSONE-704%20Diamond%20Newcomer%20NO.1%20STYLE%20College%20Gravure%20Idol%20Nozomi%20Araki%20Makes%20Her%20AV%20Debut%2000_23_01-00_41_19%2B%5B4K%5DOAE-286%20ALL%20NUDE%20Araki%20Kiku.mp4
+
+#EXTINF:-1 tvg-id="MUSIC04" tvg-name="Nhạc 04" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 04
 https://files.catbox.moe/link-video-09.mp4
-
-#EXTINF:-1 tvg-id="VID10" tvg-name="Video 10" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 10
-https://files.catbox.moe/link-video-10.mp4
-
-#EXTINF:-1 tvg-id="VID11" tvg-name="Video 11" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 11
-https://files.catbox.moe/link-video-11.mp4
-
-#EXTINF:-1 tvg-id="VID12" tvg-name="Video 12" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 12
-https://files.catbox.moe/link-video-12.mp4
-
-#EXTINF:-1 tvg-id="VID13" tvg-name="Video 13" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 13
-https://files.catbox.moe/link-video-13.mp4
-
-#EXTINF:-1 tvg-id="VID14" tvg-name="Video 14" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 14
-https://files.catbox.moe/link-video-14.mp4
-
-#EXTINF:-1 tvg-id="VID15" tvg-name="Video 15" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 15
-https://files.catbox.moe/link-video-15.mp4
-
-#EXTINF:-1 tvg-id="VID16" tvg-name="Video 16" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 16
-https://files.catbox.moe/link-video-16.mp4
-
-#EXTINF:-1 tvg-id="VID17" tvg-name="Video 17" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 17
-https://files.catbox.moe/link-video-17.mp4
-
-#EXTINF:-1 tvg-id="VID18" tvg-name="Video 18" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 18
-https://files.catbox.moe/link-video-18.mp4
-
-#EXTINF:-1 tvg-id="VID19" tvg-name="Video 19" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 19
-https://files.catbox.moe/link-video-19.mp4
-
-#EXTINF:-1 tvg-id="VID20" tvg-name="Video 20" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 20
-https://files.catbox.moe/link-video-20.mp4
 
