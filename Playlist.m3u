@@ -2085,14 +2085,16 @@ https://drive.usercontent.google.com/download?id=1FeYVFxCF4hewHE5-qhN7eoARdemd1_
 #EXTINF:-1 tvg-id="VID05" tvg-name="Video 05" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 05
 https://drive.usercontent.google.com/download?id=1O469mIxp4a0PXMGalElivKRWCnk6asj7&export=download&authuser=0&confirm=t&uuid=eb1b8795-199f-44e3-be29-30681c3b9d8c&at=AMrWOn1PNNI5SQoTnuyj4EOjIt6q:1789883842995
 
-#EXTINF:-1 tvg-id="VID05" tvg-name="Video 05" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 06
+#EXTINF:-1 tvg-id="VID05" tvg-name="Video 06" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 06
 https://drive.usercontent.google.com/download?id=1du8BdjVdBkcLZUksiuZfr6v38S2Zb-43&export=download&authuser=0&confirm=t&uuid=9f3ba571-651f-4f30-ba26-0e96a2984c50&at=AMrWOn33XsANpUPNfxez997D2NwL:1789883886074
 
-#EXTINF:-1 tvg-id="VID05" tvg-name="Video 05" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 07
+#EXTINF:-1 tvg-id="VID05" tvg-name="Video 07" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 07
 https://drive.usercontent.google.com/download?id=1e6bMrqZOBlene7X_qso25kgpg0WX5Rd-&export=download&authuser=0&confirm=t&uuid=1133d8e5-a004-462e-9c04-6b1da2772d42&at=AMrWOn0nowWiA9Be-7rpfAbHtS1n:1789883927722
 
-#EXTINF:-1 tvg-id="VID05" tvg-name="Video 05" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 08
+#EXTINF:-1 tvg-id="VID05" tvg-name="Video 08" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 08
 https://drive.usercontent.google.com/download?id=1gj5cUVet9WjHs73VB44CblCz6jfEMtAq&export=download&authuser=0&confirm=t&uuid=459700b1-7bb8-44cb-bf67-0db0b506435d&at=AMrWOn0bety8pr5ERy0MDYE2Nz3n:1789883967391
+
+
 # ==================== ÂM NHẠC ====================#
 #EXTINF:-1 tvg-id="MUSIC01" tvg-name="♬Nhạc 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 01
 https://ia903209.us.archive.org/23/items/format-factory-mux-rebd-456_202609/FormatFactory%20Mux%20REBD-456.ia.mp4
@@ -2123,3 +2125,6 @@ https://ia801909.us.archive.org/25/items/format-factory-mux-rebd-886/FormatFacto
 
 #EXTINF:-1 tvg-id="" tvg-name="♬Nhạc 10 " tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 10
 https://ia600504.us.archive.org/8/items/format-factory-mux-rebd-891/FormatFactory%20Mux%20REBD-891.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="♬Nhạc 10 " tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 11
+https://ia601509.us.archive.org/25/items/format-factory-mux-rebd-922/FormatFactory%20Mux%20REBD-922.mp4
