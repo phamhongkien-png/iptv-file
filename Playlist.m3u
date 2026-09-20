@@ -103,56 +103,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News
 
-# ==================== SCTV ====================#
-
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
-https://hoiquan.dpdns.org/VTVGo/?sctv1
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2
-https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/OHetPmW.png",SCTV3
-https://hoiquan.dpdns.org/VTVGo/?sctv3
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/q4GDdbO.png",SCTV4
-https://hoiquan.dpdns.org/VTVGo/?sctv4
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/OTwJmmm.png",SCTV5
-https://hoiquan.dpdns.org/VTVGo/?sctv5
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6
-https://hoiquan.dpdns.org/VTVGo/?sctv6
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/5Px8WQl.png",SCTV7
-https://hoiquan.dpdns.org/VTVGo/?sctv7
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/qDJ9Cke.png",SCTV8
-https://hoiquan.dpdns.org/VTVGo/?sctv8
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9
-https://hoiquan.dpdns.org/VTVGo/?sctv9
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/GHcVQkB.png",SCTV10
-https://hoiquan.dpdns.org/VTVGo/?sctv10
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11
-https://hoiquan.dpdns.org/VTVGo/?sctv11
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/didV8dZ.png",SCTV12
-https://hoiquan.dpdns.org/VTVGo/?sctv12
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/3i51qm8.png",SCTV13
-https://hoiquan.dpdns.org/VTVGo/?sctv13
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
-https://hoiquan.dpdns.org/VTVGo/?sctv14
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
-
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
-https://hoiquan.dpdns.org/VTVGo/?sctv16
-#EXTINF:-1 group-title="🇻🇳| SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
-
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
-https://hoiquan.dpdns.org/VTVGo/?sctv18
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/GKqfMnC.png",SCTV19
-https://hoiquan.dpdns.org/VTVGo/?sctv19
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20
-https://hoiquan.dpdns.org/VTVGo/?sctv20
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21
-https://hoiquan.dpdns.org/VTVGo/?sctv21
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
-
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV Phim TH
-https://hoiquan.dpdns.org/VTVGo/?sctvphim
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://img.lichphatsong.site/logo/sctv4k.jpg", SCTV4K 
-
 # ==================== KÊNH YÊU THÍCH ====================#
 
 #EXTINF:-1 tvg-id="hbohd" group-title="⭐ KÊNH YÊU THÍCH" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
@@ -250,6 +200,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="⭐ KÊNH YÊU THÍCH" tvg-logo="https://i.imgur.com/VO7PRty.png",OUTDOOR CHANNEL HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+
+# ==================== Quốc Tế VIP====================#
+
 #EXTINF:-1 tvg-id="hbohd" group-title="🌐 Quốc Tế VIP" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -361,6 +314,73 @@ https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌐 Quốc Tế VIP" tvg-logo="https://vnepg.site/logos/143.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
 
 
+# ==================== In The Box ====================#
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦 In The Box" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/boxmovie1.png", Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BM1/manifest.mpd
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦 In The Box" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/hollywoodclassic.png", Hollywood Classics
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/HC/manifest.mpd
+#EXTINF:-1 tvg-id="boxhits" group-title="📦 In The Box" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/boxhits.png", Box Hits
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+#EXTINF:-1 tvg-id="musicbox" group-title="📦 In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
+https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
+#EXTINF:-1 tvg-id="woman" group-title="📦 In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/manifest.mpd
+#EXTINF:-1 tvg-id="tvbvn" group-title="📦 In The Box" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=phim-viet
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_640_360.png", 360 Phim Âu Mỹ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=phim-au-my
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_640_360.png", 360 Hoạt hình
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=hoat-hinh
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_640_360.png", 360 Phim Hoa Ngữ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_640_360.png", 360 Hành Động Châu Á
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_640_360.png", 360 K-Drama
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-k-drama
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_640_360.png", 360 Hài - Tình Cảm
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-hai-tinh-cam
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_640_360.png", 360 Phim Kinh Điển
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_640_360.png", 360 Anime
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-anime
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/18/13/1781765362332/737c1501b0c5_640_360.png", 360 Thiếu Nhi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/30/10/1785382803894/362700e9107b_640_360.png", 360 Phim 4K
+https://vmttv.dpdns.org/tv360/?id=360-phim-4k
+#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo=" https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png", 360 C1 Châu Âu
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 # ==================== KHO PHIM ====================#
 #EXTINF:-1 tvg-id="VID01" tvg-name="Video 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 01
 https://ia800508.us.archive.org/15/items/soav-131/SOAV-131.mp4
