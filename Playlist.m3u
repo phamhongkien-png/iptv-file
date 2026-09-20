@@ -1367,6 +1367,9 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vzhzbcmueh/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=086b401b6a619cdb0e61b2973d315d5a:c3360a5e54c649244b9776f21b9b9384
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mmlfd2azxy/out/v1/bf22ff4619cf47098a6d5afb25d1dc7c/cenc.mpd
+
+# ==================== SPORTS VIP ====================#
+
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 " tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="🌟SPORTS VIP🌟", BEIN SPORTS 1 🇦🇺 MPD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1961,6 +1964,9 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/16dd0c46-4f8b-457b-b84c-7e3ecc8a9059/0.m3u8
 #EXTINF:-1 tvg-id="funbox.uk" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/1/1a/Fast-and-funbox-int.png/revision/latest?cb=20250323100348&path-prefix=pl" tvg-country="UK" tvg-language="english" group-title="🌟SPORTS XTREAM🌟",FAST & FUNBOX HD
 https://dash4.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+# ==================== SPORTS XTREAM ====================#
+
 #EXTINF:-1 tvg-id="Goal TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3b9ff291-5825-4cd3-b8f0-5d03a3f1e3c1" group-title="🌟SPORTS XTREAM🌟", Goal TV
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
@@ -2115,3 +2121,6 @@ https://ia903208.us.archive.org/19/items/format-factory-mux-rebd-825/FormatFacto
 
 #EXTINF:-1 tvg-id="" tvg-name="Nhạc 07" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 07
 https://ia601000.us.archive.org/18/items/format-factory-mux-rebd-835/FormatFactory%20Mux%20REBD-835.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Nhạc 08" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 08
+https://ia601408.us.archive.org/3/items/format-factory-mux-rebd-865/FormatFactory%20Mux%20REBD-865.mp4
