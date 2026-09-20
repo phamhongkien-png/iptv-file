@@ -1,6 +1,33 @@
 #EXTM3U
+#-------------------VTV-------------------#
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 (HD 8Mbps)
+udp://225.1.2.249:30120
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV2.png",VTV2 (HD 8Mbps)
+udp://225.1.2.13:30120
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV3.png",VTV3 (HD 8Mbps)
+udp://225.1.2.247:30120
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV4.png",VTV4 (HD 8Mbps)
+udp://225.1.2.20:30120
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (HD 8Mbps)
+udp://225.1.2.190:30120
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5.png",VTV5 (HD 8Mbps)
+udp://225.1.1.131:30120
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TNB.png",VTV5 Tây Nam Bộ (HD 8Mbps)
+udp://225.1.2.236:30120
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5_TN.png",VTV5 Tây Nguyên (HD 8Mbps)
+udp://225.1.1.108:30120
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (HD 8Mbps)
+udp://225.1.2.154:30120
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV7.png",VTV7 (HD 8Mbps)
+udp://225.1.2.96:30120
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV8.png",VTV8 (HD 8Mbps)
+udp://225.1.2.166:30120
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV9.png",VTV9 (HD 8Mbps)
+udp://225.1.1.128:30120
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10 (HD 8Mbps)
+udp://225.1.2.245:30120
 
-# ==================== NHÓM 1: KHO PHIM ====================
+# ==================== KHO PHIM ====================
 #EXTINF:-1 tvg-id="VID01" tvg-name="Video 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 01
 https://ia800508.us.archive.org/15/items/soav-131/SOAV-131.mp4
 
@@ -17,7 +44,7 @@ https://files.catbox.moe/link-video-04.mp4
 https://files.catbox.moe/link-video-05.mp4
 
 
-# ==================== NHÓM 2: ÂM NHẠC ====================
+# ==================== ÂM NHẠC ====================
 #EXTINF:-1 tvg-id="MUSIC01" tvg-name="Nhạc 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 01
 https://ia903209.us.archive.org/23/items/format-factory-mux-rebd-456_202609/FormatFactory%20Mux%20REBD-456.ia.mp4
 
@@ -30,3 +57,73 @@ https://ia803104.us.archive.org/11/items/rebd-1016/FormatFactory%20Mux%20%5BRedu
 #EXTINF:-1 tvg-id="MUSIC04" tvg-name="Nhạc 04" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 04
 https://ia601402.us.archive.org/0/items/format-factory-mux-rebd-816/FormatFactory%20Mux%20PRIAN-028%20Th%E1%BB%9Di%20gian%20th%E1%BB%B1c-Ria%20Yuzuki%20-%20MissAV%20-%20Xem%20HD%20J.mp4
 
+
+#-------------------Quốc tế -------------------#
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
+udp://225.1.2.21:30120
+#EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8Mbps)
+udp://225.1.1.231:30120
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang (HD 8Mbps)
+udp://225.1.1.201:30120
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 8Mbps)
+udp://225.1.1.198:30120
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
+udp://225.1.2.225:30120
+#EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies (HD 8Mbps)
+udp://225.1.1.134:30120
+#EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 8Mbps)
+udp://225.1.2.24:30120
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 8Mbps)
+udp://225.1.2.52:30120
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 8Mbps)
+udp://225.1.2.156:30120
+#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 8Mbps)
+udp://225.1.2.74:30120
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 8Mbps)
+udp://225.1.2.91:30120
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8Mbps)
+udp://225.1.2.231:30120
+#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 8Mbps)
+udp://225.1.1.138:30120
+#EXTINF:0 tvg-id="cinemaworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
+udp://225.1.1.142:30120
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
+udp://225.1.2.86:30120
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8Mbps)
+udp://225.1.2.157:30120
+#EXTINF:0 tvg-id="cna" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
+udp://225.1.1.202:30120
+#EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png",CNBC (HD 8Mbps)
+udp://225.1.1.232:30120
+#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
+udp://225.1.1.242:30120
+#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
+udp://225.1.1.197:30120
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 8Mbps)
+udp://225.1.2.223:30120
+#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 8Mbps)
+udp://225.1.1.238:30120
+#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 8Mbps)
+udp://225.1.1.136:30120
+#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8Mbps)
+udp://225.1.1.46:30120
+#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8Mbps)
+udp://225.1.2.227:30120
+#EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
+udp://225.1.2.211:30120
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
+udp://225.1.2.233:30120
+#EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World (HD 8Mbps)
+udp://225.1.1.196:30120
+#EXTINF:0 tvg-id="kix" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX (HD 8Mbps)
+udp://225.1.2.144:30120
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan (HD 8Mbps)
+udp://225.1.1.47:30120
+#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
+udp://225.1.2.215:30120
+#EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 8Mbps)
+udp://225.1.1.236:30120
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TV5_Monde_Asie.png",TV5 Monde Asie (HD 8Mbps)
+udp://225.1.1.200:30120
+#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
+udp://225.1.1.139:30120
