@@ -312,206 +312,197 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌐 Quốc Tế VIP" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png", TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌐 Quốc Tế VIP" tvg-logo="https://vnepg.site/logos/143.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
-
-# ==================== BOX ====================#
-
-#EXTINF:-1 tvg-id="musicbox" group-title="BOX" tvg-logo="https://vietanhtv.id.vn/logo/musicbox.png", Music Box HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
-
-#EXTINF:-1 tvg-id="woman" group-title="BOX" tvg-logo="https://vietanhtv.id.vn/logo/woman.png", WOMAN HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livebytsctbu.vtvprime.vn/mean/WO/manifest.mpd
-
-#EXTINF:-1 tvg-id="boxmovie1" group-title="BOX" tvg-logo="https://vietanhtv.id.vn/logo/boxmovie1.jpg", Box Movie 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
-
-#EXTINF:-1 tvg-id="boxhits" group-title="BOX" tvg-logo="https://vietanhtv.id.vn/logo/boxhits.png", Box Hits HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livebytsctbu.vtvprime.vn/mean/BOXHIT/manifest.mpd
-
-#EXTINF:-1 tvg-id="hollywoodclassic" group-title="BOX" tvg-logo="https://vietanhtv.id.vn/logo/hollywoodclassic.png", Hollywood Classics HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livebytsctbu.vtvprime.vn/mean/HC/manifest.mpd
-
-
-# ==================== Quốc Tế ====================#
-
-#EXTINF:-1 tvg-id="warnertv" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/warnertv.png", Warner TV
+#EXTINF:-1 tvg-id="warnertv" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/warnertv.png", Warner TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="hbo" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png", HBO
+#EXTINF:-1 tvg-id="hbo" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cinemaworld" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cinemaworld.png", CinemaWorld
+#EXTINF:-1 tvg-id="cinemaworld" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/cinemaworld.png", CinemaWorld
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="axn" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/axn.png", AXN
+#EXTINF:-1 tvg-id="axn" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/axn.png", AXN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cinemax" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png", Cinemax
+#EXTINF:-1 tvg-id="cinemax" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png", Cinemax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acb4c23471063327adc732e283c0847f:e9868f5f473d0fd8699ede48d531c2b0
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cartoonnetwork" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cartoon-network.png", Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/cartoon-network.png", Cartoon Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cartoonito" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cartoonito.png", Cartoonito
+#EXTINF:-1 tvg-id="cartoonito" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/cartoonito.png", Cartoonito
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbc-cbeebies" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bbc-cbeebies.png", BBC Cbeebies
+#EXTINF:-1 tvg-id="bbc-cbeebies" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/bbc-cbeebies.png", BBC Cbeebies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cca73a006b4b39a595207ceb5ed9ca0a:b833d1f40c261ef78896f97e06f80cdc
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="dmax" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/dmax.png", Dmax
+#EXTINF:-1 tvg-id="dmax" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/dmax.png", Dmax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/dreamworks.png", Dreamworks
+#EXTINF:-1 tvg-id="dreamworks" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/dreamworks.png", Dreamworks
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67dae20527c63dadaaae609aa91577cb:59328f621d56767bc5ff9404a8940683
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="animal-planet" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/animal-planet.png", Animal-planet
+#EXTINF:-1 tvg-id="animal-planet" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/animal-planet.png", Animal-planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/outdoor.png", Outdoor HD
+#EXTINF:-1 tvg-id="outdoorhd" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/outdoor.png", Outdoor HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/OUTDOORCHANNEL/manifest.mpd
 
-#EXTINF:-1 tvg-id="discovery" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/discovery-channel.png", Discovery
+#EXTINF:-1 tvg-id="discovery" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/discovery-channel.png", Discovery
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="tlc" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/tlc.png", Travel Living Channel
+#EXTINF:-1 tvg-id="tlc" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/tlc.png", Travel Living Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
 https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="discoveryasia" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/discovery-asia.png", Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasia" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/discovery-asia.png", Discovery Asia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="fashiontv" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/fashiontv.png",  Fashion TV
+#EXTINF:-1 tvg-id="fashiontv" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/fashiontv.png",  Fashion TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cnn.png", CNN
+#EXTINF:-1 tvg-id="cnn" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/cnn.png", CNN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bloomberg.png", Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/bloomberg.png", Bloomberg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bbc-lifestyle.png", BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/bbc-lifestyle.png", BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbcnews" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bbc-news.png", BBC World News
+#EXTINF:-1 tvg-id="bbcnews" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/bbc-news.png", BBC World News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bbc-earth.png", BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/bbc-earth.png", BBC Earth
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/abc-australia.png", ABC Australia
+#EXTINF:-1 tvg-id="abcaustralia" group-title="🌐 Quốc Tế VIP" tvg-logo="https://freem3u.xyz/static/images/global/abc-australia.png", ABC Australia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
 https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vZYlGIW.png", VTV1 HD
-https://cdn-live.vtv.vn/WG0nGf7gXZsi8L4lId6CtQ/1785376887/live/vtv1/master.m3u8
-
-#EXTINF:-1 tvg-id="asianfoodnetworkhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/pux6WN8.png", Asian Food Network
+#EXTINF:-1 tvg-id="asianfoodnetworkhd" group-title=" 🌐 Quốc Tế VIP VIP" tvg-logo="https://i.imgur.com/pux6WN8.png", Asian Food Network
 https://ec03-pop5-hht.tv360.vn/bpk-token/s4jz6sx4y2keuj3czvrjme47jklrhh2k/bpk-tv/178/output/index.m3u8?bkm-query&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ewogICJleHAiOjE3ODUzOTUwNDYsCiAgImlzcyI6ImJrbSIsCiAgInZlciI6IjEuMCIsCiAgImlhdCI6MTc4NTM3MzMyNywKICAic3IiOnsKICAgICAidmVyIjoiMi4wIiwKICAgICAic25hIjoiMTc4X0hMUyIsCiAgICAgInBuYSI6IlZpZXR0ZWwiLAogICAgICJybmEiOiIiLAogICAgICJwbiI6IlBPUC1IQ00tUE9QNSIsCiAgICAgImVuIjoiRURHRS1IQ00tUE9QNSIsCiAgICAgImNjIjoiVk4iLAogICAgICJyYyI6IlNHIiwKICAgICAiYWNuIjoiQ09SRS1IQ00tUE9QNSIsCiAgICAgImlzcCI6IlZOUFQiLAogICAgICJhc24iOiI0NTg5OSIsCiAgICAgInZzIjoiQktTNDAwLVBPUDUtMDNfMTcyLjI0LjE3LjEzNDoyMDAwMCIsCiAgICAgIm50IjoiT1RUIiwKICAgICAidHRwIjowLAogICAgICJwbGlkIjoiIiwKICAgICAicHVpZCI6IiIsCiAgICAgInRlaWQiOiIiCiAgfSwKICAib3QiOnsKICAgICAidHMiOjE3ODUzNzMzMjcsCiAgICAgInVybCI6Ii9icGstdHYvMTc4L291dHB1dC9pbmRleC5tM3U4P21pbnJhdGU9MCZtYXhyYXRlPTEyMDAwMDAwIiwKICAgICAidG9rIjoiczRqejZzeDR5MmtldWozY3p2cmptZTQ3amtscmhoMmsiLAogICAgICJleHQiOiIiLAogICAgICJjaXAiOiIxMDMuOS43OC4xMDciLAogICAgICJjaGsiOiBmYWxzZSwKICAgICAic3R0IjoiTk8iLAogICAgICJkc2NwIjowLAogICAgICJzdiI6ewogICAgICAgICJpZCI6IjE3OF9ITFMiLAogICAgICAgICJ0eXAiOiJMSVZFIgogICAgIH0sCiAgICAgInRvIjp7CiAgICAgICAgCiAgICAgICAgCiAgICAgICAgInN1IjowLAogICAgICAgICJyYyI6MTUwCiAgICAgfSwKICAgICAibGF5IjogewogICAgICAibHN0IjpbXSwKICAgICAgIm1heCI6MTIwMDAwMDAsCiAgICAgICJtaW4iOjAKICAgICB9LAogICAgICJyc2giOjAsCiAgICAgInJzaHAiOjEwMCwKICAgICAib2JmIjpmYWxzZSwKICAgICAidGFncyI6e30KICB9Cn0.1xkrhPx8ahUv7y1VQLSXH9wDYQNFU4DXMc3Dm8ZQMw4
+#EXTINF:-1 tvg-id="musicbox" group-title="🌐 Quốc Tế VIP" tvg-logo="https://vietanhtv.id.vn/logo/musicbox.png", Music Box HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
+
+#EXTINF:-1 tvg-id="woman" group-title="🌐 Quốc Tế VIP" tvg-logo="https://vietanhtv.id.vn/logo/woman.png", WOMAN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/WO/manifest.mpd
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🌐 Quốc Tế VIP" tvg-logo="https://vietanhtv.id.vn/logo/boxmovie1.jpg", Box Movie 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
+
+#EXTINF:-1 tvg-id="boxhits" group-title="🌐 Quốc Tế VIP" tvg-logo="https://vietanhtv.id.vn/logo/boxhits.png", Box Hits HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/BOXHIT/manifest.mpd
+
+#EXTINF:-1 tvg-id="hollywoodclassic" group-title="🌐 Quốc Tế VIP" tvg-logo="https://vietanhtv.id.vn/logo/hollywoodclassic.png", Hollywood Classics HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/HC/manifest.mpd
+
 
 # ==================== In The Box ====================#
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦 In The Box" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/boxmovie1.png", Box Movie 1
@@ -2084,46 +2075,49 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991627/hls/billi.m3u8?ads.xumo_chan
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
 # ==================== KHO PHIM ====================#
-#EXTINF:-1 tvg-id="VID01" tvg-name="Video 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 01
+#EXTINF:-1 tvg-id="VID01" tvg-name="♨️SOAV-131" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 01
 https://ia800508.us.archive.org/15/items/soav-131/SOAV-131.mp4
 
-#EXTINF:-1 tvg-id="VID02" tvg-name="Video 02" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 02
+#EXTINF:-1 tvg-id="VID02" tvg-name="Video 02" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 02
 https://files.catbox.moe/link-video-02.mp4
 
-#EXTINF:-1 tvg-id="VID03" tvg-name="Video 03" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 03
+#EXTINF:-1 tvg-id="VID03" tvg-name="Video 03" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 03
 https://files.catbox.moe/link-video-03.mp4
 
-#EXTINF:-1 tvg-id="VID04" tvg-name="Video 04" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 04
+#EXTINF:-1 tvg-id="VID04" tvg-name="Video 04" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 04
 https://files.catbox.moe/link-video-04.mp4
 
-#EXTINF:-1 tvg-id="VID05" tvg-name="Video 05" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Kho Phim",Video 05
+#EXTINF:-1 tvg-id="VID05" tvg-name="Video 05" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🎬Kho Phim",Video 05
 https://files.catbox.moe/link-video-05.mp4
 
 
 # ==================== ÂM NHẠC ====================#
-#EXTINF:-1 tvg-id="MUSIC01" tvg-name="Nhạc 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 01
+#EXTINF:-1 tvg-id="MUSIC01" tvg-name="♬Nhạc 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 01
 https://ia903209.us.archive.org/23/items/format-factory-mux-rebd-456_202609/FormatFactory%20Mux%20REBD-456.ia.mp4
 
-#EXTINF:-1 tvg-id="MUSIC02" tvg-name="Nhạc 02" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 02
+#EXTINF:-1 tvg-id="MUSIC02" tvg-name="♬Nhạc 02" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 02
 https://ia801009.us.archive.org/0/items/format-factory-mux-javxx-xem/FormatFactory%20Mux%20JAVxx%20-%20Xem.ia.mp4
 
-#EXTINF:-1 tvg-id="MUSIC03" tvg-name="Nhạc 03" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 03
+#EXTINF:-1 tvg-id="MUSIC03" tvg-name="♬Nhạc 03" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 03
 https://ia803104.us.archive.org/11/items/rebd-1016/FormatFactory%20Mux%20%5BReducing%20Mosaic%5DSONE-704%20Diamond%20Newcomer%20NO.1%20STYLE%20College%20Gravure%20Idol%20Nozomi%20Araki%20Makes%20Her%20AV%20Debut%2000_23_01-00_41_19%2B%5B4K%5DOAE-286%20ALL%20NUDE%20Araki%20Kiku.mp4
 
-#EXTINF:-1 tvg-id="MUSIC04" tvg-name="Nhạc 04" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 04
+#EXTINF:-1 tvg-id="MUSIC04" tvg-name="♬Nhạc 04" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 04
 https://ia601402.us.archive.org/0/items/format-factory-mux-rebd-816/FormatFactory%20Mux%20PRIAN-028%20Th%E1%BB%9Di%20gian%20th%E1%BB%B1c-Ria%20Yuzuki%20-%20MissAV%20-%20Xem%20HD%20J.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Nhạc 05" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 05
+#EXTINF:-1 tvg-id="" tvg-name="♬Nhạc 05" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 05
 https://ia601008.us.archive.org/14/items/format-factory-mux-prian-028-thoi-gian-thuc-ria-yuzuki-miss-av-xem-hd-j/FormatFactory%20Mux%20PRIAN-028%20Th%E1%BB%9Di%20gian%20th%E1%BB%B1c-Ria%20Yuzuki%20-%20MissAV%20-%20Xem%20HD%20J.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Nhạc 06" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 06
+#EXTINF:-1 tvg-id="" tvg-name="♬Nhạc 06" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 06
 https://ia903208.us.archive.org/19/items/format-factory-mux-rebd-825/FormatFactory%20Mux%20REBD-825.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Nhạc 07" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 07
+#EXTINF:-1 tvg-id="" tvg-name="♬Nhạc 07" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 07
 https://ia601000.us.archive.org/18/items/format-factory-mux-rebd-835/FormatFactory%20Mux%20REBD-835.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Nhạc 08" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 08
+#EXTINF:-1 tvg-id="" tvg-name="♬Nhạc 08" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 08
 https://ia601408.us.archive.org/3/items/format-factory-mux-rebd-865/FormatFactory%20Mux%20REBD-865.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Nhạc " tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="Âm Nhạc",Bài Hát 09
+#EXTINF:-1 tvg-id="" tvg-name="♬Nhạc09" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 09
 https://ia801909.us.archive.org/25/items/format-factory-mux-rebd-886/FormatFactory%20Mux%20REBD-886.ia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="♬Nhạc 10 " tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="🔥Âm Nhạc",Bài Hát 10
+https://ia600504.us.archive.org/8/items/format-factory-mux-rebd-891/FormatFactory%20Mux%20REBD-891.mp4
