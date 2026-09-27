@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="animalhd" group-title=" 📦 In The Box" tvg-logo="https://vnepg.site/logos/143.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://freem3u.xyz/static/images/global/animal-planet.png" group-title=" 📦 In The Box", ANIMAL PLANET 🇻🇳
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://freem3u.xyz/static/images/global/animal-planet.png" group-title="📦 In The Box", ANIMAL PLANET 🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2063,16 +2063,16 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 
 # ==================== ÂM NHẠC ==================#
 
-#EXTINF:-1 tvg-id="MUSIC01" tvg-name="♬Nhạc 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title=" 💋 Âm Nhạc🔥 ",Bài Hát 01
+#EXTINF:-1 tvg-id="MUSIC01" tvg-name="♬Nhạc 01" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="💋 Âm Nhạc🔥 ",Bài Hát 01
 https://drive.usercontent.google.com/download?id=126k76MKN0USkDXHgPF44l2u7vrxbrEpN&export=view&authuser=0&confirm=t&uuid=7a4aff25-1c94-4621-abd5-0806e46b839d&at=AMrWOn3cTYzSxfmMmauctEB7wLHt%3A1790351971066
 
-#EXTINF:-1 tvg-id="MUSIC02" tvg-name="♬Nhạc 02" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title=" 💋 Âm Nhạc🔥 ",Bài Hát 02
+#EXTINF:-1 tvg-id="MUSIC02" tvg-name="♬Nhạc 02" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="💋 Âm Nhạc🔥",Bài Hát 02
 https://drive.usercontent.google.com/download?id=1uwggKYaklFyWFFHuhh8wGcR3W2bxZQjA&export=view&authuser=0&confirm=t&uuid=e2afc91b-684e-4714-b532-7c4c3e25da91&at=AMrWOn0hzBfs6pi5EJYzcs_trTV4%3A1790351999563
 
-#EXTINF:-1 tvg-id="MUSIC03" tvg-name="♬Nhạc 03" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title=" 💋 Âm Nhạc🔥 ",Bài Hát 03
+#EXTINF:-1 tvg-id="MUSIC03" tvg-name="♬Nhạc 03" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="💋 Âm Nhạc🔥",Bài Hát 03
 https://drive.usercontent.google.com/download?id=1LNdRhhnwMidkTGR0NEXOLGOqjSNe7Jvp&export=view&authuser=0&confirm=t&uuid=4e96cba2-f616-4317-8c34-8c22c011f719&at=AMrWOn12M-TpgNKo6ChCklXdM4gW%3A1790352042485
 
-#EXTINF:-1 tvg-id="MUSIC04" tvg-name="♬Nhạc 04" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title=" 💋 Âm Nhạc🔥 ",Bài Hát 04
+#EXTINF:-1 tvg-id="MUSIC04" tvg-name="♬Nhạc 04" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="💋 Âm Nhạc🔥",Bài Hát 04
 https://drive.usercontent.google.com/download?id=1IOAfNEj3hjhNJRc3Qzh9hPtOAk_1Zx0Y&export=view&authuser=0&confirm=t&uuid=226177bf-2d35-4744-9be5-f5c5f1c16c1e&at=AMrWOn1yq1hn0L8wN3DrEYDkOKN-%3A1790352058009
 
 #EXTINF:-1 tvg-id="MUSIC05" tvg-name="♬Nhạc 05" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="💋 Âm Nhạc🔥",Bài Hát 05
@@ -2101,6 +2101,7 @@ https://drive.usercontent.google.com/download?id=1IMB-sXCEi0Nb9wQmYlmZNnhrRtINkP
 
 #EXTINF:-1 tvg-id="MUSIC13" tvg-name="♬Nhạc 13" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="💋 Âm Nhạc🔥",Bài Hát 13
 https://drive.usercontent.google.com/download?id=13QlhqOrFYnY-SsU2eDYM1K1Wv1FoRLx2&export=view&authuser=0&confirm=t&uuid=ef977091-6bc1-4d15-bbe1-7d4aad5e2d85&at=AMrWOn1Pu4GKXNq6f9GRTJbm92_B%3A1790517405379
+
 #EXTINF:-1 tvg-id="MUSIC13" tvg-name="♬Nhạc 13" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="💋 Âm Nhạc🔥",Bài Hát 14
 https://drive.usercontent.google.com/download?id=13QlhqOrFYnY-SsU2eDYM1K1Wv1FoRLx2&export=view&authuser=0&confirm=t&uuid=c0b5149b-88d5-4919-b5c0-1c3ac0cad6ae&at=AMrWOn2JB6VI9lfDhpl9O6wmOT1H%3A1790517593226
 
