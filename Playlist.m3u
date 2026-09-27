@@ -1,6 +1,6 @@
 #EXTM3U
 
-# ==================== In The Box ====================#
+# ==================== In The Box ====================
 
 #EXTINF:-1 tvg-id="hbo" group-title="📦 In The Box" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
