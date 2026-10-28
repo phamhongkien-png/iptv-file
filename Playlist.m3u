@@ -284,6 +284,43 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://dekki.bacbenny95.workers.dev/film4k/stream/channel/9951
 #EXTINF:-1 tvg-logo="https://vtvprime.vn/sideLogoBig.png" group-title="Sự kiện",VTVPrime 188
 https://qipmgzougxliv.vcdn.cloud/app/stream/master.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.postimg.cc/F1FvzstX/V1.png" group-title="🪷VTV",VTV1
+https://freem3u.xyz/api/live/play.m3u8?vid=2
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.postimg.cc/yDR4tDRm/V2.png" group-title="🪷VTV",VTV2
+https://vmttv.dpdns.org/tv360/?id=vtv2
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.postimg.cc/B8cWZRM0/V3.png" group-title="🪷VTV",VTV3
+https://vmttv.dpdns.org/tv360/?id=vtv3
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.postimg.cc/Wqzxnzj0/V4.png" group-title="🪷VTV",VTV4
+https://vmttv.dpdns.org/tv360/?id=vtv4
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.postimg.cc/ZC91vWVM/V5.png" group-title="🪷VTV",VTV5
+https://freem3u.xyz/api/live/play.m3u8?vid=110
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.postimg.cc/68ngzDsM/V5TNB.png" group-title="🪷VTV",VTV5 Tây Nam Bộ
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.postimg.cc/HcZhVm5d/V5TN.png" group-title="🪷VTV",VTV5 Tây Nguyên
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.postimg.cc/t7Jc81QZ/V6.png" group-title="🪷VTV",VTV6
+https://vmttv.dpdns.org/tv360/?id=vtv6
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.postimg.cc/ykSbYwN8/V7.png" group-title="🪷VTV",VTV7
+https://vmttv.dpdns.org/tv360/?id=vtv7
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.postimg.cc/k2QYWK8w/V8.png" group-title="🪷VTV",VTV8
+https://vmttv.dpdns.org/tv360/?id=vtv8
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.postimg.cc/phT0NSS6/V9.png" group-title="🪷VTV",VTV9
+https://vmttv.dpdns.org/tv360/?id=vtv9
+
+#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="https://i.postimg.cc/4nY8BrVK/V10.png" group-title="🪷VTV",VTV10
+https://vmttv.dpdns.org/tv360/?id=vtv10
 
 # ==================== FPT  ====================#
 #EXTINF:-1 tvg-id="fptplay" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title=" 📺 FPT Play",FPT Play
