@@ -75,7 +75,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
-
+#EXTINF:0 tvg-rec="0" group-title="📦 In The Box" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Playboy_TV_Logo.svg/revision/latest/scale-to-width-down/512" ,Playboy Plus
+http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/6242/index.m3u8
 #EXTINF:-1 tvg-id="fashiontv" tvg-logo="https://freem3u.xyz/static/images/global/fashiontv.png" group-title="📦 In The Box", FASHION TV 🇻🇳MPD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -125,8 +126,11 @@ https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
+#EXTINF:0 tvg-rec="0" group-title="📦 In The Box" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png" ,Love Nature 4K
+http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/5001/index.m3u8
 
-# ==================== VTV FPT ====================#
+
+# ==================== VTV ====================#
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/1.png" group-title="🪷VTV" catchup="default" catchup-days="2" catchup-source="https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd?startTime=${start}&stopTime=${stop}" tvg-shift="0",VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -212,6 +216,74 @@ https://live.fptplay53.net/live/media/vtv8/live-hls-avc/index.m3u8
 https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="🪷VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png" group-title=“🪷VTV”,VTV1
+https://freem3u.xyz/api/live/play.m3u8?vid=2
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789027955396/02dce36fc3ff_480_270.png" group-title=“🪷VTV”,VTV1-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/2
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png" group-title=“🪷VTV”,VTV10
+https://vmttv.dpdns.org/tv360/?id=vtv10
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/178902829313/9caa3cdd2362_480_270.png" group-title=“🪷VTV”,VTV10-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/98
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png" group-title=“🪷VTV”,VTV2
+https://vmttv.dpdns.org/tv360/?id=vtv2
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789027996819/72d1db4aee30_480_270.png" group-title=“🪷VTV”,VTV2-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/3
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/3.png" group-title=“🪷VTV”,VTV3
+https://vmttv.dpdns.org/tv360/?id=vtv3
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028028518/5e31c4d0e6df_480_270.png" group-title=“🪷VTV”,VTV3-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/4
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/4.png" group-title=“🪷VTV”,VTV4
+https://vmttv.dpdns.org/tv360/?id=vtv4
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028176727/7330e5a3b2d9_480_270.png" group-title=“🪷VTV”,VTV4-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/108
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/5.png" group-title=“🪷VTV”,VTV5
+https://freem3u.xyz/api/live/play.m3u8?vid=110
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/6.png" group-title=“🪷VTV”,VTV5 Tây Nam Bộ
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028453349/679543a01193_480_270.png" group-title=“🪷VTV”,VTV5 Tây Nam Bộ-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/157
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/7.png" group-title=“🪷VTV”,VTV5 Tây Nguyên
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028476364/6cc9a1e13281_480_270.png" group-title=“🪷VTV”,VTV5 Tây Nguyên-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/207
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028197435/9250c116a95a_480_270.png" group-title=“🪷VTV”,VTV5-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/110
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png" group-title=“🪷VTV”,VTV6
+https://vmttv.dpdns.org/tv360/?id=vtv6
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028251332/3b8d99f01cf8_480_270.png" group-title=“🪷VTV”,VTV6-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/10043
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/9.png" group-title=“🪷VTV”,VTV7
+https://vmttv.dpdns.org/tv360/?id=vtv7
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028340304/12d1ff56339c_480_270.png" group-title=“🪷VTV”,VTV7-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/6
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/10.png" group-title=“🪷VTV”,VTV8
+https://vmttv.dpdns.org/tv360/?id=vtv8
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028374733/17d3b1dcfa56_480_270.png" group-title=“🪷VTV”,VTV8-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/115
+#EXTINF:-1 tvg-logo="https://r2.epg.io.vn/2026-09-17/11.png" group-title=“🪷VTV”,VTV9
+https://vmttv.dpdns.org/tv360/?id=vtv9
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028403548/13cc721d59b3_480_270.png" group-title=“🪷VTV”,VTV9-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/8
+#EXTINF:-1 tvg-id="vtvgo-fast-ca-nhac" tvg-name="VTVgo - Ca nhạc" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261022/2026102204/ed4d3183-73e6-4bc3-89fa-ef4a25ae3e8b-VTVgo-Ca-Nhac150x90.png" group-title=“🪷VTV”,VTVgo - Ca nhạc
+https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-ca-nhac/master.m3u8
+#EXTINF:-1 tvg-id="vtvgo-fast-du-lich" tvg-name="VTVgo - Du Lịch" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261022/2026102204/4e47748f-603e-45d4-bc71-dad990260d72-VTVgo-Du-Lich150x90.png" group-title=“🪷VTV”,VTVgo - Du Lịch
+https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-du-lich-kham-pha/master.m3u8
+#EXTINF:-1 tvg-id="vtvgo-fast-game-show" tvg-name="VTVgo - Game show" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261022/2026102204/3f9b4d58-6f86-4039-8584-98692e58fbc2-VTVgo-Gameshow.png" group-title=“🪷VTV”,VTVgo - Game show
+https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-game-show/master.m3u8
+#EXTINF:-1 tvg-id="vtvgo-fast-phim-truyen" tvg-name="VTVgo - Phim truyện" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261022/2026102204/fda07157-8a3c-40b1-9dd7-4af2b3f3b2bc-VTVgo-Phim-VFC150x90.png" group-title=“🪷VTV”,VTVgo - Phim truyện
+https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-truyen/master.m3u8
+#EXTINF:-1 tvg-id="vtvgo-fast-suc-khoe-nguoi-gia" tvg-name="VTVgo - Sức Khỏe" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261022/2026102204/93767f11-7633-4ca8-aa46-83a99688e141-VTVgo-Suc-Khoe150x90.png" group-title=“🪷VTV”,VTVgo - Sức Khỏe
+https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-suc-khoe-nguoi-gia/master.m3u8
+#EXTINF:-1 tvg-id="vtvgo-fast-thieu-nhi" tvg-name="VTVgo - Thiếu nhi" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261022/2026102204/af4a5db5-15f7-4c91-92db-025d79003d06-VTVgo-Thieu-Nhi-150x90.png" group-title=“🪷VTV”,VTVgo - Thiếu nhi
+https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-thieu-nhi/master.m3u8
+#EXTINF:-1 tvg-id="vtvgo-fast-tai-lieu" tvg-name="VTVgo - Tài liệu" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261022/2026102204/083b12e1-ce64-4528-8933-725937595083-VTVgo-Phim-Tai-Lieu150x90.png" group-title=“🪷VTV”,VTVgo - Tài liệu
+https://fast-origin-stg.next.vtvdigital.vn/playout/releases/go-20261013/channels/auto-phim-tai-lieu/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg" group-title=“🪷VTV”,Vietnam Today
+https://freem3u.xyz/api/live/play.m3u8?vid=9951
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2025/12/05/09/1764903286193/46f72417f718_480_270.png" group-title=“🪷VTV”,Vietnam Today-1
+https://dekki.bacbenny95.workers.dev/film4k/stream/channel/9951
+#EXTINF:-1 tvg-logo="https://vtvprime.vn/sideLogoBig.png" group-title="Sự kiện",VTVPrime 188
+https://qipmgzougxliv.vcdn.cloud/app/stream/master.m3u8
 
 # ==================== FPT  ====================#
 #EXTINF:-1 tvg-id="fptplay" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title=" 📺 FPT Play",FPT Play
