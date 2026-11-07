@@ -1,74 +1,7 @@
 [
-{
-"id": "img_01",
-"url": "https://i.ibb.co/3y2KWz9g/NAM08448.jpg",
-"type": "image",
-"title": "Hình nền 01"
-},
-{
-"id": "img_02",
-"url": "https://i.ibb.co/3mnHvQ91/NAM08431.jpg",
-"type": "image",
-"title": "Hình nền 02"
-},
-{
-"id": "img_03",
-"url": "https://i.ibb.co/0yQv2rzn/NAM08380.jpg",
-"type": "image",
-"title": "Hình nền 03"
-},
-{
-"id": "img_04",
-"url": "https://i.ibb.co/FkFgjT4b/NAM08343.jpg",
-"type": "image",
-"title": "Hình nền 04"
-},
-{
-"id": "img_05",
-"url": "https://i.ibb.co/XrGgfZsM/NAM08284.jpg",
-"type": "image",
-"title": "Hình nền 05"
-},
-{
-"id": "img_06",
-"url": "https://i.ibb.co/C54yXpsP/NAM08261.jpg",
-"type": "image",
-"title": "Hình nền 06"
-},
-{
-"id": "img_07",
-"url": "https://i.ibb.co/h1yFs350/NAM08251.jpg",
-"type": "image",
-"title": "Hình nền 07"
-},
-{
-"id": "img_08",
-"url": "https://i.ibb.co/V0yxM9nh/NAM08230.jpg",
-"type": "image",
-"title": "Hình nền 08"
-},
-{
-"id": "img_09",
-"url": "https://i.ibb.co/wr2q0PBs/NAM08165.jpg",
-"type": "image",
-"title": "Hình nền 09"
-},
-{
-"id": "img_10",
-"url": "https://i.ibb.co/0VBTTXBr/NAM08199.jpg",
-"type": "image",
-"title": "Hình nền 10"
-},
-{
-"id": "img_11",
-"url": "https://i.ibb.co/ccNj7K0B/NAM08189a.jpg",
-"type": "image",
-"title": "Hình nền 11"
-},
-{
-"id": "img_12",
-"url": "https://i.ibb.co/zWV3nmC4/NAM08189.jpg",
-"type": "image",
-"title": "Hình nền 12"
-}
+  {
+    "location": "Vietnam",
+    "title": "Vietnam Aerial",
+    "url_4k": "https://files.catbox.moe/kh703j.mp4"
+  }
 ]
