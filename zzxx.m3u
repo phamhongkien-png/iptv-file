@@ -146,5 +146,83 @@ https://drive.usercontent.google.com/download?id=1-ML_Z9WNbrIhOHkPLsLaj_dcDUnsJM
 
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-name="PLAYBOY" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="ONLINE TIVI",PLAYBOY
 https://epg.pw/stream/8e6610e5d455dee47a8885cf7806e59859bf8484069be8dc6fe9d678e3670333.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="ADULT001" tvg-name="PLAYBOY" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="ONLINE TIVI",PLAYBOY
+https://epg.pw/stream/8e6610e5d455dee47a8885cf7806e59859bf8484069be8dc6fe9d678e3670333.m3u8
+#EXTINF:-1 tvg-id="ADULT002" tvg-name="Playboy (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",Playboy (+18) | HD
+https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
+#EXTINF:-1 tvg-id="ADULT003" tvg-name="VENUS - USA (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",VENUS - USA (+18) | HD
+https://edge4-sl.cvattv.com.ar/live/c6eds/Venus/SA_SAGEMCOM/Venus.m3u8
+#EXTINF:-1 tvg-id="ADULT004" tvg-name="A3BIKINI - USA (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",A3BIKINI - USA (+18) | HD
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="ADULT005" tvg-name="FASHION TV MIDNIGHT SECRETS - USA (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",FASHION TV MIDNIGHT SECRETS - USA (+18) | HD
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="ADULT006" tvg-name="FASHION TV - USA (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",FASHION TV - USA (+18) | HD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ADULT007" tvg-name="MIAMI TV - USA (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",MIAMI TV - USA (+18) | HD
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-id="ADULT008" tvg-name="TV Adultos POV (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",TV Adultos POV (+18) | HD
+http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ADULT009" tvg-name="TV Adultos GangBang (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",TV Adultos GangBang (+18) | HD
+http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ADULT010" tvg-name="TV Adultos Brunette (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",TV Adultos Brunette (+18) | HD
+http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ADULT011" tvg-name="TV Adultos Blonde (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",TV Adultos Blonde (+18) | HD
+http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ADULT012" tvg-name="TV Adultos Live Cams (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",TV Adultos Live Cams (+18) | HD
+http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ADULT013" tvg-name="TV Adultos Latina (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",TV Adultos Latina (+18) | HD
+http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ADULT014" tvg-name="TV Adultos MILF (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",TV Adultos MILF (+18) | HD
+http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ADULT015" tvg-name="AdultIPTV.net Live Cams" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="ADULT016" tvg-name="AdultIPTV.net MILF" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="ADULT017" tvg-name="AdultIPTV.net Big Dick" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="ADULT018" tvg-name="AdultIPTV.net Big Tits" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="ADULT019" tvg-name="AdultIPTV.net Fetish" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="ADULT020" tvg-name="AdultIPTV.net Pornstar" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="ADULT021" tvg-name="AdultIPTV.net Big Ass" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="ADULT022" tvg-name="AdultIPTV.net Interracial" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="ADULT023" tvg-name="AdultIPTV.net Latina" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="ADULT024" tvg-name="AdultIPTV.net POV" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="ADULT025" tvg-name="AdultIPTV.net Blowjob" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="ADULT026" tvg-name="AdultIPTV.net Hardcore" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="ADULT027" tvg-name="AdultIPTV.net Cuckold" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="ADULT028" tvg-name="AdultIPTV.net Threesome" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="ADULT029" tvg-name="AdultIPTV.net Russian" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="ADULT030" tvg-name="AdultIPTV.net Lesbian" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="ADULT031" tvg-name="AdultIPTV.net Rough" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="ADULT032" tvg-name="AdultIPTV.net Gangbang" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="ADULT033" tvg-name="AdultIPTV.net Anal" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="ADULT034" tvg-name="AdultIPTV.net Compilation" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="ADULT035" tvg-name="AdultIPTV.net Brunette" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="ADULT036" tvg-name="AdultIPTV.net Blonde" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="ADULT037" tvg-name="AdultIPTV.net Gay" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="ADULT038" tvg-name="AdultIPTV.net Asian" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
+
 
 
