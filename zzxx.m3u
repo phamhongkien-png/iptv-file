@@ -144,10 +144,8 @@ https://drive.usercontent.google.com/download?id=1-ML_Z9WNbrIhOHkPLsLaj_dcDUnsJM
 
 # ==================== ONLINE ====================#
 
-#EXTINF:-1 tvg-id="PLAYBOY" tvg-name="PLAYBOY" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="ONLINE TIVI",PLAYBOY
-https://epg.pw/stream/8e6610e5d455dee47a8885cf7806e59859bf8484069be8dc6fe9d678e3670333.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="ADULT001" tvg-name="PLAYBOY" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="ONLINE TIVI",PLAYBOY
+# ==================== ONLINE ====================#
+#EXTINF:-1 tvg-id="PLAYBOY" tvg-name="FASHION TV" tvg-logo="https://cdn.creativefabrica.com/2022/02/14/cinema-logo-design-templates-vector-Graphics-25185506-1-1-580x386.png" group-title="ONLINE TIVI",PLAYBOY
 https://epg.pw/stream/8e6610e5d455dee47a8885cf7806e59859bf8484069be8dc6fe9d678e3670333.m3u8
 #EXTINF:-1 tvg-id="ADULT002" tvg-name="Playboy (+18) | HD" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="+18",Playboy (+18) | HD
 https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
@@ -223,6 +221,9 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="ADULT038" tvg-name="AdultIPTV.net Asian" tvg-logo="https://raw.githubusercontent.com/phamhongkien-png/iptv-file/main/sexy.png" group-title="XXX",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
+
+
+
 
 
 
