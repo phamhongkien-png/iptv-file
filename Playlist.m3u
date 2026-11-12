@@ -129,6 +129,12 @@ http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/5001/index.m3u8
 
 
 # ==================== VTV ====================#
+#EXTINF:-1 tvg-id="vtv1hd" group-title="🪷VTV" tvg-logo="https://i.imgur.com/vZYlGIW.png", VTV1 HD
+https://cdn-live.vtv.vn/WG0nGf7gXZsi8L4lId6CtQ/1785376887/live/vtv1/master.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🪷VTV" tvg-logo="https://i.imgur.com/qWWpYRR.png", VTV2 HD
+https://cdn-live.vtv.vn/hFvs8MNQFZW8RK4-V_p_Qw/1785376892/live/vtv2/vtv2-720p.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🪷VTV" tvg-logo="https://i.imgur.com/4lJG1fu.png", VTV3 HD
+https://cdn-live.vtv.vn/xsGyWt2HPsi9yhzMfrQ7Rw/1785376875/live/vtv3/vtv3-720p.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/1.png" group-title="🪷VTV" catchup="default" catchup-days="2" catchup-source="https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd?startTime=${start}&stopTime=${stop}" tvg-shift="0",VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
